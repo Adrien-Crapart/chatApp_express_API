@@ -3,6 +3,7 @@
 # Project setup
 ## Backend section
 ### Go to the backend folder and install node dependances
+#### In first terminal, execute this code
 ```
 cd backend
 npm install
@@ -14,6 +15,7 @@ nodemon server
 ```
 ## Frontend section
 ### Go to the frontend folder and install node dependances
+#### In second terminal, execute this code
 ```
 cd frontend
 npm install
