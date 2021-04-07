@@ -1,9 +1,21 @@
 # chat-app-express-API-and-vuejs
 
-## Project setup
-# Go to the backend folder and install node dependances
+# Project setup
+## Backend section
+### Go to the backend folder and install node dependances
 ```
 cd backend
+npm install
+```
+
+## Compiles and hot-reloads for development
+```
+nodemon server
+```
+## Frontend section
+### Go to the frontend folder and install node dependances
+```
+cd frontend
 npm install
 ```
 
