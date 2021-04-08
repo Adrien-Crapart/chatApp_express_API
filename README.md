@@ -1,4 +1,5 @@
 # chat-app-express-API-and-vuejs
+#### To acces in admin session, type in email : grapex-95@hotmail.fr and mdp : Adrien95
 
 # Project setup
 ## Backend section
